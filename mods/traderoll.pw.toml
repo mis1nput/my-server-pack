@@ -1,0 +1,13 @@
+name = "TradeRoll"
+filename = "refresh-trades-26.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjRX28bY/versions/VywnbPdf/refresh-trades-26.2.jar"
+hash-format = "sha512"
+hash = "1a016cebd8d6b6d2d3e49645755339a422bfaa056323e0b5af3909db77a65c37e71a61a01e7ddfa64f1e1fdbe02363e87cb8d8661aba4c21dcb98767bfa7eb47"
+
+[update]
+[update.modrinth]
+mod-id = "EjRX28bY"
+version = "VywnbPdf"

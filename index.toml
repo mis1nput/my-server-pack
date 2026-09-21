@@ -1,0 +1,116 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "3e4d788583a36e9d145407fadce148f037e5229bff430f7dcd281d4d426c9ee6"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "7e3224d04dac3c2ad62d0f5d69301fca61c8e9de78a7ac37ee486e2783166da6"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "fe1901158f49cae71686a3519334607fccaa59e7dbb7b4f8fbbaab70d527a2c8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "af4c96fcc59bec634f457bf7693496f203ceaac28a180e84a73c488a1a2895cb"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree-datapack.pw.toml"
+hash = "3ba26a3b3c7e49e6e8028a2c337a399163b597ddda21c371f6f74eff1ebfabfb"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "66a12f7cfb7e89c1f10b69973c954190a2046a1b265aeb3faf5f43c7e0951001"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "61753229840336a72edc151e4f1c1d5ac6f2996ff7b15d79038dbf70eb1bb8f0"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "54268d542c7b1f5534877790b3d90923e0697244bb3e961a597e8450aabf505b"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "9db79461e4519af592c4d07a0c3a64e55cbd44f6a39d0eb5dd1e968a6ff26646"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f3b77573e2e6f89048bf153c1dda8d83426824437a63de049969b1fcf5ba3fe3"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "680c52dcd4b46783da0a8b789864df741c47e9059b245c57b75d50aa34fe25ab"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "5587d752a3b30750512779e21e0a5eb400d0657593d9ba8c392e157ec74c251c"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "43b4583ea1b8bc1dd8056086e4194c4f5e110a3359417c0ae9795b4f00c8529f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e0274d780169d81e54561b2c71ed188d6864f6bdf0d73c70ec351d925a9b2e18"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "355c3fab900f72305d2dda8f5e5fd7d80ef133dcea6dfdf474ca03873b544299"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b1083983d7ac86c52c1bb1da749f132460c4ee9a8875e76c5244037fc1e0de73"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "0c96b5bd496fefece5503443a3c0801d751f644df0ec33854838cf48ac28138c"
+metafile = true
+
+[[files]]
+file = "mods/traderoll.pw.toml"
+hash = "5d17a70831694c950fc8d6ebd4629d2353fe4c97fefd8ce289ff06bd25ac1ab4"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "8047ce0aeb02d6d5e7ab35b1f00712299c99d50101c8019118aac221a471ab2c"
+metafile = true
+
+[[files]]
+file = "mods/villager-coin.pw.toml"
+hash = "636786956aafb21cfb9fd0bdcb7f379d908f54ff88dd2f491089c8f4414850a0"
+metafile = true

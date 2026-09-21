@@ -1,0 +1,13 @@
+name = "Mis1nputs-Pack"
+author = "Mis1nput"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7c1ca4c0c4fafcc53f68893e37fc8f6b9caac6a312ec28a5ac7550b8a4917775"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"

@@ -1,0 +1,13 @@
+name = "Falling tree"
+filename = "falling-tree-datapack-v1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8RbNCncz/versions/X5XHPNlS/falling-tree-datapack-v1.0.jar"
+hash-format = "sha512"
+hash = "3b862b88c855ee68ef5421f60d0fa0ec709286d93b7b40b28b5a572d460c952120b01a2195a2febd2d7208601affd01a04dc56ad337fc0c692453b9bde1b71a5"
+
+[update]
+[update.modrinth]
+mod-id = "8RbNCncz"
+version = "X5XHPNlS"

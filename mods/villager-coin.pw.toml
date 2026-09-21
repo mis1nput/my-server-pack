@@ -1,0 +1,13 @@
+name = "Better Villager Trades"
+filename = "villager_coin-fabric-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AmVwpB93/versions/BDny6ZyT/villager_coin-fabric-1.4.1.jar"
+hash-format = "sha512"
+hash = "d619e14793f23dfe7ae3f98deb330496c781582c539ef575e326d10d5017f0cb8c475e6e1555d6d55877431f3c972e6dc108bbdbade3aec5b10e23cc431cf83f"
+
+[update]
+[update.modrinth]
+mod-id = "AmVwpB93"
+version = "BDny6ZyT"
